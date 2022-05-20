@@ -24,7 +24,7 @@ loa/			Directory containing the Lines of Action package.
 
     Square.java         Represents a position on a Board.
 
-    Move.java		    Represents a single move.
+    Move.java		Represents a single move.
 
     Game.java           Controls play of the game.  Calls on Players to
                         provide moves, executes other commands,
