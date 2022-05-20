@@ -4,7 +4,7 @@ This directory contains a software implementation of the game, Line Of Action.
 "Lines of Action is a board game invented by Claude Soucie. It is played on a checkerboard with ordinary checkers pieces. The two players take turns, each moving a piece, and possibly capturing an opposing piece. The goal of the game is to get all of one’s pieces into one group of pieces that are connected."
 
 	
-Makefile	A makefile that will compile your
+Makefile		A makefile that will compile your
 			files and run tests.  You must turn in a Makefile,
 			'make' must compile all your files, and 
 			'make check' must perform all your tests.  
@@ -14,10 +14,10 @@ Makefile	A makefile that will compile your
 
 loa/			Directory containing the Lines of Action package.
 
-    Makefile		    A convenience Makefile so that you can issue 
+    Makefile		A convenience Makefile so that you can issue 
 			            compilation commands from the game directory.
 
-    Piece.java	 	    An enumeration type describing the kinds of pieces.
+    Piece.java	 	An enumeration type describing the kinds of pieces.
 
     Board.java	        Represents a game board.  Contains much of the
 			            machinery for checking or generating possible moves.
